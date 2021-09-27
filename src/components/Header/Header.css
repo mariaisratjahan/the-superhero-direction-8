@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: rgb(47, 51, 53);
+    padding: 20px;
+    color:white;
+    font-weight: bold;
+    line-height: 20px;
+}
+.para{
+    color:rgb(182, 135, 49);
+    font-size: 40px;
+}
