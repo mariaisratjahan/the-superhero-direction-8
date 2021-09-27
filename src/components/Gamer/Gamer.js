@@ -14,7 +14,7 @@ const Gamer = (props) => {
              <h3 className="orange-color">country: {country}</h3>
              <h3>email: {email}</h3>
              <h3 className="orange-color">Salary: {salary}</h3>
-             <button className="btn" onClick={()=> props.handleCartBtn(props.gamer)}>{element}Add to cart</button>
+             <button className="btn" onClick={()=> props.handleCartBtn(props.gamer)}>{element}<span className="btn-left-margin">Add to cart</span></button>
             </div>
         </div>
     );

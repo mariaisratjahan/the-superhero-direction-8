@@ -2,3 +2,6 @@
     display: grid;
     grid-template-columns: 3fr 2fr;
 }
+.btn-left-margin{
+    margin-left: 10px;
+}
